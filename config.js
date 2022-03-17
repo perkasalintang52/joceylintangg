@@ -29,10 +29,10 @@ supaya saya menambahkan nama Anda disini
 >>> BOLEH MENAMBAHKAN, JANGAN MENGHILANGKAN <<<
 */
 
-global.linkGC = ['https://chat.whatsapp.com/invite/GLJ8l40brp3BcFodqch21J', 'https://chat.whatsapp.com/Lggj1Hl7p18ILA8gXsK2yi', 'https://chat.whatsapp.com/HBhy7rVae3o0PkIfkhvs2N'] // ganti jadi group lu
+global.linkGC = ['https://instagram.com/joceylintangg', 'https://tiktok.com/@joceylintangg', 'https://instagram.com/joceylintangg'] // ganti jadi group lu
 
 //Berbagai itu indah @Parel / Rxfly
-global.owner = ['6285721108765', '+62 857-2110-8765', '+62 857-2110-8765'] // Put your number here
+global.owner = ['6281322577123', '+62 813-2257-7123', '+62 813-2257-7123'] // Put your number here
 global.mods = ['2'] // Want some help?
 global.prems = ['1'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -59,7 +59,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 //global.packname = 'I hope you\'re fine'
 //global.author = 'LitRHap'
-global.packname = './RyuuZeyy\n\n\n./RyuuTod\n\n\n\n\nhttps://wa.me/message/MJKHC7377YLDA1\n\n\n\n\nwa.me/62896-7776-3976\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.packname = './Joceylintangg\n\n\n./RyuuTod\n\n\n\n\nhttps://wa.me/message/MJKHC7377YLDA1\n\n\n\n\nwa.me/62813-2257-7123\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
 global.author = ''
 
 // silakan di ganti klo mau
@@ -103,11 +103,11 @@ lolkey = 'rey2k21'
 lolKey = 'rey2k21'
 
 
-footer = '\n\n\n@ＪＥＭ － Ｂｏｔ'
-namabot = 'RAFA BOT'
+footer = '\n\n\n@ joceylintangg'
+namabot = 'joceylintangg'
 bc = namabot
-//bc = 'RAFA BOT'
-namaowner = 'RyuuZeyy'
+//bc = 'joceylintangg'
+namaowner = 'Lintang'
 ceco = 'Ganteng 🗿'
 let tum = fs.readFileSync('./gambar1.jpeg')
 let tum1 = fs.readFileSync('./gambar1.jpeg')
@@ -118,15 +118,15 @@ global.thumb1 = tum
 global.thumb2 = tum2
 global.thumb3 = tum3
 run = 'tes'
-gc1 = 'https://chat.whatsapp.com/invite/GLJ8l40brp3BcFodqch21J'
-gc2 = 'https://chat.whatsapp.com/Lggj1Hl7p18ILA8gXsK2yi'
+gc1 = '- '
+gc2 = '-'
 linkf = gc1
 wm_rey = 'https://raw.githubusercontent.com/RTeam1/database/'
-namaig = 'RAFA BOT'
-namagh = 'https://github.com/RaffaStore5'
+namaig = 'instagram.com/joceylintangg'
+namagh = 'https://github.com/perkasalintang52'
 kasihcaption = `support terus ${namaig}\ndan \n${namagh}`
-browsername = './RyuuTodd'
-titler = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧'//'https://ryuuzeyy.xyz'
+browsername = './joceylintangg'
+titler = 'Joceylintangg'//'https://ryuuzeyy.xyz'
 body = './RyuuZeyy'
 linkf = namagh
 // WM = ./ReyToddd
